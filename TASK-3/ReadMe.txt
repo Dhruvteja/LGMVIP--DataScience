@@ -15,5 +15,3 @@ pip install IPython
 
 
 3) Make sure terrorism dataset and jupyter file are located in same folder. 
-
-3)
